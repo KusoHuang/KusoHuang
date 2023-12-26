@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+A designer in the UI/UX field with 7 years of work experience. My expertise lies in systematic UI design and maintenance of products across multiple platforms such as APPs and the Web. I excel in designing product usage flows to meet specific requirements. My work also includes creating landing pages for short-term projects. I am proficient in using Sketch and Figma as my primary tools for work.
 <!--
 **KusoHuang/KusoHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
